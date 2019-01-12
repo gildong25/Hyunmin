@@ -3,11 +3,11 @@
  *  Scanner / while¹®
  */
 
-package ch1;
+package lv1;
 
 import java.util.Scanner;
 
-public class ch1_7 {
+public class lv1_7 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

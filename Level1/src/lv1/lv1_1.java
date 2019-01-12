@@ -3,9 +3,9 @@
  * 
  */
 
-package ch1;
+package lv1;
 
-public class HelloWorld {
+public class lv1_1 {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}

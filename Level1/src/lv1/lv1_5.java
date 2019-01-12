@@ -3,9 +3,9 @@
  *  '"'(큰따옴표)와 '\'(백슬래시)앞에 '\'를 한번더 붙여준다
  */
 
-package ch1;
+package lv1;
 
-public class ch1_5 {
+public class lv1_5 {
 	   public static void main(String[] args){
 	        System.out.println("|\\_/|");
 	        System.out.println("|q p|   /}");

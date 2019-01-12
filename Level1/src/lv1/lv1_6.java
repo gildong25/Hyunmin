@@ -3,9 +3,9 @@
  *  System.out.println 이용
  */
 
-package ch1;
+package lv1;
 
-public class ch1_6 {
+public class lv1_6 {
   public static void main(String[] args){
       System.out.println("강한친구 대한육군");
       System.out.println("강한친구 대한육군");
