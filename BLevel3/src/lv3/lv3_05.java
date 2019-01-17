@@ -13,7 +13,7 @@ public class lv3_05 {
 		int num = sc.nextInt();
 		sc.close();
 				
-		for(int i = 1; i < num+1 ; i++) {
+		for(int i = 0; i <= num ; ++i) {
 			for(int j = num ; j > 0; j--) {
 				if( i < j )
 					System.out.print(" ");
